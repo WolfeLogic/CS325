@@ -1,2 +1,2 @@
-# CS325
-This is the repo's readme
+# CS361
+See project report for detailed file descriptions
